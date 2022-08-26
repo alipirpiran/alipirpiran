@@ -1,13 +1,11 @@
-### Hi there 👋
-<samp>
-I'm Ali Pirpiran, Backend Developer
-</samp>
-<br> 
-
-<img width="250" src="https://github.com/alipirpiran/alipirpiran/raw/master/scosco_pocouma.gif">
+<h2> Hi, I'm Ali Pirpiran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="center" width="250" src="https://github.com/alipirpiran/alipirpiran/raw/master/scosco_pocouma.gif">
 
 <samp>
-  Get connect: <a href="https://t.me/mralpr">Telegram</a> <a href="https://twitter.com/alipirpiran">Twitter</a> <a href="https://www.linkedin.com/in/alipirpiran/">Linkedin</a>  
+Computer Engineering Student at Zanjan University<br>
+Backend Developer<br>
+Interest in linux<br>
+ Get connect: <a href="https://t.me/mralpr">Telegram</a> <a href="https://twitter.com/alipirpiran">Twitter</a> <a href="https://www.linkedin.com/in/alipirpiran/">Linkedin</a>  
 </samp>
 
 <!--
