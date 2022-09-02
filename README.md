@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ali Pirpiran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="center" width="250" src="https://github.com/alipirpiran/alipirpiran/raw/master/scosco_pocouma.gif">
+<img align="center" width="250" src="https://github.com/alipirpiran/alipirpiran/raw/master/scosco.gif">
 
 <samp>
 Computer Engineering Student at Zanjan University<br>
